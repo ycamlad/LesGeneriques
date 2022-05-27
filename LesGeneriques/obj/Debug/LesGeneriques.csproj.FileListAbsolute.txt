@@ -1,0 +1,6 @@
+C:\Users\chris\RiderProjects\LesGeneriques\LesGeneriques\bin\Debug\LesGeneriques.exe
+C:\Users\chris\RiderProjects\LesGeneriques\LesGeneriques\bin\Debug\LesGeneriques.pdb
+C:\Users\chris\RiderProjects\LesGeneriques\LesGeneriques\obj\Debug\LesGeneriques.csproj.AssemblyReference.cache
+C:\Users\chris\RiderProjects\LesGeneriques\LesGeneriques\obj\Debug\LesGeneriques.csproj.CoreCompileInputs.cache
+C:\Users\chris\RiderProjects\LesGeneriques\LesGeneriques\obj\Debug\LesGeneriques.exe
+C:\Users\chris\RiderProjects\LesGeneriques\LesGeneriques\obj\Debug\LesGeneriques.pdb
